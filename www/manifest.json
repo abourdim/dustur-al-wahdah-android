@@ -1,0 +1,12 @@
+{
+  "name": "Charter of Cultural Unity — دستور الوحدة الثقافية بين المسلمين",
+  "short_name": "دستور الوحدة",
+  "description": "Interactive trilingual app based on Sheikh Mohammed al-Ghazali's book",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#E3F2FD",
+  "theme_color": "#1565C0",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": []
+}
